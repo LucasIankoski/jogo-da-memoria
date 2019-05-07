@@ -1,0 +1,16 @@
+C:\Users\curso\Documents\Visual Studio 2008\Projects\jogoMemoria\jogoMemoria\bin\Debug\jogoMemoria.exe
+C:\Users\curso\Documents\Visual Studio 2008\Projects\jogoMemoria\jogoMemoria\bin\Debug\jogoMemoria.pdb
+C:\Users\curso\Documents\Visual Studio 2008\Projects\jogoMemoria\jogoMemoria\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\curso\Documents\Visual Studio 2008\Projects\jogoMemoria\jogoMemoria\obj\Debug\jogoMemoria.Form1.resources
+C:\Users\curso\Documents\Visual Studio 2008\Projects\jogoMemoria\jogoMemoria\obj\Debug\jogoMemoria.Properties.Resources.resources
+C:\Users\curso\Documents\Visual Studio 2008\Projects\jogoMemoria\jogoMemoria\obj\Debug\jogoMemoria.csproj.GenerateResource.Cache
+C:\Users\curso\Documents\Visual Studio 2008\Projects\jogoMemoria\jogoMemoria\obj\Debug\jogoMemoria.exe
+C:\Users\curso\Documents\Visual Studio 2008\Projects\jogoMemoria\jogoMemoria\obj\Debug\jogoMemoria.pdb
+C:\Users\curso\Downloads\jogoMemoria\jogoMemoria\obj\Debug\jogoMemoria.exe
+C:\Users\curso\Downloads\jogoMemoria\jogoMemoria\obj\Debug\jogoMemoria.pdb
+C:\Users\curso\Downloads\jogoMemoria\jogoMemoria\bin\Debug\jogoMemoria.exe
+C:\Users\curso\Downloads\jogoMemoria\jogoMemoria\bin\Debug\jogoMemoria.pdb
+C:\Users\curso\Downloads\jogoMemoria\jogoMemoria\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\curso\Downloads\jogoMemoria\jogoMemoria\obj\Debug\jogoMemoria.Properties.Resources.resources
+C:\Users\curso\Downloads\jogoMemoria\jogoMemoria\obj\Debug\jogoMemoria.csproj.GenerateResource.Cache
+C:\Users\curso\Downloads\jogoMemoria\jogoMemoria\obj\Debug\jogoMemoria.Form1.resources
